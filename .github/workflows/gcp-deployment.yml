@@ -8,7 +8,7 @@ jobs:
     env:
       VM_NAME: vm-services-seed
       INSTANCE_GROUP: mig-services
-      INSTANCE_TEMPLATE: temp-vm-services-seed-v2
+      INSTANCE_TEMPLATE: temp-vm-services-seed-v4
       REGION: asia-southeast1
       ZONE: asia-southeast1-c
       USER_NAME: dimanthanipun02
